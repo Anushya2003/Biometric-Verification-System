@@ -33,8 +33,7 @@ def get_connection():
     )
 
 
-    Dependencies
-    installation
+   
 
 pip install pyqt5
 pip install opencv-python
@@ -42,7 +41,9 @@ pip install numpy
 pip install psycopg2-binary
 pip install face_recognition
 pip install pillow
-pip install reportlab   # for generating PDF life certificates
+pip install reportlab  
+
+# for generating PDF life certificates
 
 error pip uninstall face_recognition face_recognition_models -y
 pip install --no-cache-dir git+https://github.com/ageitgey/face_recognition
