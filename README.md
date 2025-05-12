@@ -45,7 +45,7 @@ pip install reportlab
 
 
 
-error pip uninstall face_recognition face_recognition_models -y
+error :
 pip install --no-cache-dir git+https://github.com/ageitgey/face_recognition
 
 solution:
