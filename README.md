@@ -43,7 +43,7 @@ pip install face_recognition
 pip install pillow
 pip install reportlab  
 
-# for generating PDF life certificates
+
 
 error pip uninstall face_recognition face_recognition_models -y
 pip install --no-cache-dir git+https://github.com/ageitgey/face_recognition
